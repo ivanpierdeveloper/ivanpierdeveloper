@@ -1,9 +1,10 @@
 - 🍩 Developer App Web Visual Studio Code
 - 👋 Developer App iOS Xcode
 - 👀 Hi, I’m @ivanpierdeveloper
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 --
+- 💞️ Love programmatically
+- 📫 ivanpierdeveloper.it
+
 
 <!---
 ivanpierdeveloper/ivanpierdeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
