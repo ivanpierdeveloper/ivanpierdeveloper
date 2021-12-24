@@ -1,7 +1,7 @@
 ## INIZIO
 
-- 🍩 Developer App Web Visual Studio Code
-- 👋 Developer App iOS Xcode
+- 🍩 Developer App Web with Coda and Visual Studio Code
+- 👋 Developer App iOS with Xcode
 - 👀 Hi, I’m @ivanpierdeveloper
 - 🌱 --
 - 💞️ Love programmatically
